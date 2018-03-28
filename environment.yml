@@ -1,0 +1,14 @@
+name: tese_lncc
+
+dependencies:
+  - numpy
+  - scipy
+  - python
+  - matplotlib
+  - networkx=2.0
+  - jupyter
+  - spyder
+  - pandas
+  - pytest
+  - scikit-learn
+
