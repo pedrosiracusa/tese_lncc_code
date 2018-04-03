@@ -9,6 +9,7 @@ dependencies:
   - jupyter
   - spyder
   - pandas
+  - seaborn
   - pytest
   - scikit-learn
   - pip:
